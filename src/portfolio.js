@@ -121,7 +121,7 @@ const educationInfo = {
       schoolName: "Imo State University",
       logo: require("./assets/images/developerActivity.svg"),
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - september 2017",
+      duration: "September 2013 - September 2017",
      
       
     },
@@ -141,11 +141,11 @@ const techStack = {
     },
     {
       Stack: "Backend",
-      progressPercentage: "70%"
+      progressPercentage: "80%"
     },
     {
       Stack: "Programming",
-      progressPercentage: "60%"
+      progressPercentage: "70%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -160,7 +160,7 @@ const workExperiences = {
       role: "Software Developer",
       company: "Whoba ogo foundation ICT Center",
       companylogo: require("./assets/images/woflogo.png"),
-      date: "June2025 – Present",
+      date: "June 2025 – Present",
       desc: "fullstack software developer/tutor",
       descBullets: [
         "Implemented responsive front-end website designs based on UI/UX requirements",
@@ -172,7 +172,7 @@ const workExperiences = {
       role: "IT SUPPORT WORKER",
       company: "ROYAL HEALTH MAINTENANCE SERVICES LIMITED ",
       companylogo: require("./assets/images/talksCardBack.svg"),
-      date: "January 2023 –January 2025",
+      date: "January 2023 – January 2025",
       desc: "IT Support",
        descBullets: [
         "Provided technical support to users by diagnosing and resolving hardware, software, and network issues.",
